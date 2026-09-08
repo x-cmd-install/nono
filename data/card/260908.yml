@@ -5,13 +5,13 @@ about:
   head: 72a72a8
   archived: false
   latestVersion: "v0.75.0"
-  collectedAt: 2026-09-08T03:02:24Z
+  collectedAt: 2026-09-08T05:45:48Z
 timeline:
   created: 2026-01-31
   lastCommit: 2026-09-07
   lastRelease: 2026-09-01
 popularity:
-  star: 4002
+  star: 4003
   watcher: 14
   fork: 260
   release: 107
@@ -85,7 +85,7 @@ total:
   commit: 1702
 ---
 path: /home/runner/.x-repo/github.com/always-further/nono
-collectedAt: 2026-09-08T03:02:30Z
+collectedAt: 2026-09-08T05:45:53Z
 loc:
   Rust:
     code: 176205
