@@ -7,7 +7,7 @@ secure multiplexed execution paths for agents - zero trust, zero setup, zero lat
 - **Latest release**: `v0.75.0` (2026-09-01)
 - **Last commit**: 2026-09-08
 - **License**: Apache-2.0
-- **Stars**: 4007 · **Forks**: 260 · **Open issues**: 748 · **Contributors**: 92
+- **Stars**: 4017 · **Forks**: 264 · **Open issues**: 750 · **Contributors**: 93
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/nono> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:17:14Z._
+_Last regenerated: 2026-09-09T05:54:39Z._
