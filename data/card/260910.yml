@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.76.0"
   latestRelease: "v0.76.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:55:27Z
+  collectedAt: 2026-09-10T23:43:08Z
 timeline:
   created: 2026-01-31
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 4032
+  star: 4035
   watcher: 14
-  fork: 264
+  fork: 265
   release: 108
   contributor: 94
-  pullRequest: 1024
+  pullRequest: 1025
   issue: 766
 language:
   Rust: 8039261
@@ -89,7 +89,7 @@ total:
   commit: 1714
 ---
 path: /home/runner/.x-repo/github.com/always-further/nono
-collectedAt: 2026-09-10T17:55:33Z
+collectedAt: 2026-09-10T23:43:16Z
 loc:
   Rust:
     code: 174693
