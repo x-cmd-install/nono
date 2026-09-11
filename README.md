@@ -14,12 +14,12 @@ x install nono
 
 ## Code insight
 
-Total: **189,728** lines of code across **316** files in the top 5 languages.
+Total: **192,177** lines of code across **318** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 174,693 | 9,617 | 18,252 | 222 |
-| Sh | 6,017 | 1,413 | 1,555 | 49 |
+| Rust | 177,180 | 9,732 | 18,377 | 225 |
+| Sh | 5,979 | 1,411 | 1,548 | 48 |
 | Json | 5,955 | 0 | 0 | 20 |
 | Yaml | 1,278 | 106 | 181 | 18 |
 | Python | 1,022 | 15 | 162 | 7 |
@@ -33,16 +33,16 @@ Total: **189,728** lines of code across **316** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.76.0` (2026-09-09)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 4,036 · **Forks**: 265 · **Open issues**: 766 · **Contributors**: 94
+- **Stars**: 4,042 · **Forks**: 266 · **Open issues**: 778 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 892 · **Open PRs**: 36 · **Closed issues**: 613 · **Open issues**: 153 · **Commits**: 1714
+- **Releases**: 108 · **Merged PRs**: 899 · **Open PRs**: 37 · **Closed issues**: 620 · **Open issues**: 158 · **Commits**: 1723
 
 ## Recent activity
 
@@ -79,4 +79,4 @@ Install metadata for nono lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:51:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:02:47Z._
