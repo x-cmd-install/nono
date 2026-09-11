@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11313238,
       "digest": "sha256:49ab68c6cfa0b362bf9a480851299b4511a4b2fd20b5fed6c90270e3fc61712a",
-      "download_count": 3,
+      "download_count": 11,
       "created_at": "2026-09-09T10:20:36Z",
       "updated_at": "2026-09-09T10:20:36Z",
       "browser_download_url": "https://github.com/nolabs-ai/nono/releases/download/v0.76.0/nono-cli-0.76.0-1.aarch64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12170265,
       "digest": "sha256:51ea27fd03cff8e6113deb614cd35a76d2e399d0e1075e061fb12d9c950b02de",
-      "download_count": 6,
+      "download_count": 15,
       "created_at": "2026-09-09T10:20:36Z",
       "updated_at": "2026-09-09T10:20:37Z",
       "browser_download_url": "https://github.com/nolabs-ai/nono/releases/download/v0.76.0/nono-cli-0.76.0-1.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8224964,
       "digest": "sha256:42e6f1068c4ab9bfb3f0c89ead54a9ebf3abf31725145b88f24eeb41d00db201",
-      "download_count": 56,
+      "download_count": 86,
       "created_at": "2026-09-09T10:20:36Z",
       "updated_at": "2026-09-09T10:20:36Z",
       "browser_download_url": "https://github.com/nolabs-ai/nono/releases/download/v0.76.0/nono-cli_0.76.0_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7060020,
       "digest": "sha256:bbd0652ff23e87b4aa01fcba0c2f376a7f46f4a8868cd17fd60ce7583dd424ec",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-09T10:20:36Z",
       "updated_at": "2026-09-09T10:20:36Z",
       "browser_download_url": "https://github.com/nolabs-ai/nono/releases/download/v0.76.0/nono-cli_0.76.0_arm64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9937228,
       "digest": "sha256:985547be0bb6949a13b92c11965e3d9940d4d3c2c0d9adaf4f9f10f521c6a9dc",
-      "download_count": 92,
+      "download_count": 217,
       "created_at": "2026-09-09T10:20:36Z",
       "updated_at": "2026-09-09T10:20:36Z",
       "browser_download_url": "https://github.com/nolabs-ai/nono/releases/download/v0.76.0/nono-v0.76.0-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11318286,
       "digest": "sha256:5bed9ab9d34ce177e3930b3c01d76560fa539ae803c83d912b56a0edf876f16f",
-      "download_count": 60,
+      "download_count": 96,
       "created_at": "2026-09-09T10:20:36Z",
       "updated_at": "2026-09-09T10:20:36Z",
       "browser_download_url": "https://github.com/nolabs-ai/nono/releases/download/v0.76.0/nono-v0.76.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11166119,
       "digest": "sha256:18147c17a649961298be7e5eafaa9b8f570a4a209f976f69f58ad06e433dae5a",
-      "download_count": 6,
+      "download_count": 10,
       "created_at": "2026-09-09T10:20:36Z",
       "updated_at": "2026-09-09T10:20:37Z",
       "browser_download_url": "https://github.com/nolabs-ai/nono/releases/download/v0.76.0/nono-v0.76.0-x86_64-apple-darwin.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12236199,
       "digest": "sha256:5cb6bbd4c22840dc6d05e3c46c8e22891cc125f5bf6d5748bf6c6bfcda5ef0be",
-      "download_count": 306,
+      "download_count": 512,
       "created_at": "2026-09-09T10:20:36Z",
       "updated_at": "2026-09-09T10:20:37Z",
       "browser_download_url": "https://github.com/nolabs-ai/nono/releases/download/v0.76.0/nono-v0.76.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 12397985,
       "digest": "sha256:5a57c4b78c16146dc1dea192bd1b94a1636087ed5221023ecea1808e3967f6be",
-      "download_count": 19,
+      "download_count": 39,
       "created_at": "2026-09-09T10:20:36Z",
       "updated_at": "2026-09-09T10:20:37Z",
       "browser_download_url": "https://github.com/nolabs-ai/nono/releases/download/v0.76.0/nono-v0.76.0-x86_64-unknown-linux-musl.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 923,
       "digest": "sha256:f7d17a5216b15ebf7ea38ae682bd89894ee4a074a1db4f9419a3f9f85fa6a96b",
-      "download_count": 396,
+      "download_count": 564,
       "created_at": "2026-09-09T10:20:36Z",
       "updated_at": "2026-09-09T10:20:36Z",
       "browser_download_url": "https://github.com/nolabs-ai/nono/releases/download/v0.76.0/SHA256SUMS.txt"
