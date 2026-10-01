@@ -14,12 +14,12 @@ x install nono
 
 ## Code insight
 
-Total: **198,560** lines of code across **325** files in the top 5 languages.
+Total: **200,614** lines of code across **327** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 183,190 | 9,868 | 18,632 | 229 |
-| Json | 6,199 | 0 | 0 | 23 |
+| Rust | 185,222 | 9,886 | 18,814 | 231 |
+| Json | 6,221 | 0 | 0 | 23 |
 | Sh | 5,995 | 1,291 | 1,536 | 48 |
 | Yaml | 1,291 | 83 | 169 | 18 |
 | Python | 1,022 | 15 | 162 | 7 |
@@ -32,43 +32,43 @@ Total: **198,560** lines of code across **325** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.78.0` (2026-09-16)
+- **Latest**: `v0.79.0` (2026-09-30)
 - **Last commit**: 2026-09-30
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 4,274 · **Forks**: 288 · **Open issues**: 845 · **Contributors**: 103
+- **Stars**: 4,289 · **Forks**: 289 · **Open issues**: 847 · **Contributors**: 103
 
 ## Totals (cumulative)
 
-- **Releases**: 110 · **Merged PRs**: 964 · **Open PRs**: 43 · **Closed issues**: 677 · **Open issues**: 168 · **Commits**: 1792
+- **Releases**: 111 · **Merged PRs**: 969 · **Open PRs**: 45 · **Closed issues**: 678 · **Open issues**: 169 · **Commits**: 1797
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-03 | 65 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-05 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-10 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-01 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-02 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-03 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-04 | 64 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-06 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-11 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [nono-cli-0.78.0-1.aarch64.rpm](https://github.com/always-further/nono/releases/download/v0.78.0/nono-cli-0.78.0-1.aarch64.rpm) | 10.8 MiB | `runtime/rpm/aarch64` |
-| [nono-cli-0.78.0-1.x86_64.rpm](https://github.com/always-further/nono/releases/download/v0.78.0/nono-cli-0.78.0-1.x86_64.rpm) | 11.6 MiB | `runtime/rpm/x86_64` |
-| [nono-cli_0.78.0_amd64.deb](https://github.com/always-further/nono/releases/download/v0.78.0/nono-cli_0.78.0_amd64.deb) | 7.9 MiB | `runtime/deb/amd64` |
-| [nono-cli_0.78.0_arm64.deb](https://github.com/always-further/nono/releases/download/v0.78.0/nono-cli_0.78.0_arm64.deb) | 6.7 MiB | `runtime/deb/arm64` |
-| [nono-v0.78.0-aarch64-apple-darwin.tar.gz](https://github.com/always-further/nono/releases/download/v0.78.0/nono-v0.78.0-aarch64-apple-darwin.tar.gz) | 9.5 MiB | `native/darwin/arm64` |
-| [nono-v0.78.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/always-further/nono/releases/download/v0.78.0/nono-v0.78.0-aarch64-unknown-linux-gnu.tar.gz) | 10.8 MiB | `native/linux/arm64/glibc` |
-| [nono-v0.78.0-x86_64-apple-darwin.tar.gz](https://github.com/always-further/nono/releases/download/v0.78.0/nono-v0.78.0-x86_64-apple-darwin.tar.gz) | 10.7 MiB | `native/darwin/x64` |
-| [nono-v0.78.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/always-further/nono/releases/download/v0.78.0/nono-v0.78.0-x86_64-unknown-linux-gnu.tar.gz) | 11.7 MiB | `native/linux/x64/glibc` |
-| [nono-v0.78.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/always-further/nono/releases/download/v0.78.0/nono-v0.78.0-x86_64-unknown-linux-musl.tar.gz) | 11.8 MiB | `native/linux/x64/musl` |
-| [SHA256SUMS.txt](https://github.com/always-further/nono/releases/download/v0.78.0/SHA256SUMS.txt) | 923 B | `other` |
+| [nono-cli-0.79.0-1.aarch64.rpm](https://github.com/always-further/nono/releases/download/v0.79.0/nono-cli-0.79.0-1.aarch64.rpm) | 10.9 MiB | `runtime/rpm/aarch64` |
+| [nono-cli-0.79.0-1.x86_64.rpm](https://github.com/always-further/nono/releases/download/v0.79.0/nono-cli-0.79.0-1.x86_64.rpm) | 11.7 MiB | `runtime/rpm/x86_64` |
+| [nono-cli_0.79.0_amd64.deb](https://github.com/always-further/nono/releases/download/v0.79.0/nono-cli_0.79.0_amd64.deb) | 7.9 MiB | `runtime/deb/amd64` |
+| [nono-cli_0.79.0_arm64.deb](https://github.com/always-further/nono/releases/download/v0.79.0/nono-cli_0.79.0_arm64.deb) | 6.8 MiB | `runtime/deb/arm64` |
+| [nono-v0.79.0-aarch64-apple-darwin.tar.gz](https://github.com/always-further/nono/releases/download/v0.79.0/nono-v0.79.0-aarch64-apple-darwin.tar.gz) | 9.5 MiB | `native/darwin/arm64` |
+| [nono-v0.79.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/always-further/nono/releases/download/v0.79.0/nono-v0.79.0-aarch64-unknown-linux-gnu.tar.gz) | 10.9 MiB | `native/linux/arm64/glibc` |
+| [nono-v0.79.0-x86_64-apple-darwin.tar.gz](https://github.com/always-further/nono/releases/download/v0.79.0/nono-v0.79.0-x86_64-apple-darwin.tar.gz) | 10.7 MiB | `native/darwin/x64` |
+| [nono-v0.79.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/always-further/nono/releases/download/v0.79.0/nono-v0.79.0-x86_64-unknown-linux-gnu.tar.gz) | 11.8 MiB | `native/linux/x64/glibc` |
+| [nono-v0.79.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/always-further/nono/releases/download/v0.79.0/nono-v0.79.0-x86_64-unknown-linux-musl.tar.gz) | 11.9 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS.txt](https://github.com/always-further/nono/releases/download/v0.79.0/SHA256SUMS.txt) | 923 B | `other` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for nono lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:33:28Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:48:33Z._

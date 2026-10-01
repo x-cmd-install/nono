@@ -14,12 +14,12 @@ x install nono
 
 ## 代码洞察
 
-合计: **198,560** 行代码（覆盖前 5 种语言、共 **325** 个文件）。
+合计: **200,614** 行代码（覆盖前 5 种语言、共 **327** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 183,190 | 9,868 | 18,632 | 229 |
-| Json | 6,199 | 0 | 0 | 23 |
+| Rust | 185,222 | 9,886 | 18,814 | 231 |
+| Json | 6,221 | 0 | 0 | 23 |
 | Sh | 5,995 | 1,291 | 1,536 | 48 |
 | Yaml | 1,291 | 83 | 169 | 18 |
 | Python | 1,022 | 15 | 162 | 7 |
@@ -32,43 +32,43 @@ x install nono
 
 ## 发布
 
-- **最新版本**: `v0.78.0` (2026-09-16)
+- **最新版本**: `v0.79.0` (2026-09-30)
 - **最近提交**: 2026-09-30
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 4,274 · **Fork**: 288 · **开放 issue**: 845 · **贡献者**: 103
+- **Star**: 4,289 · **Fork**: 289 · **开放 issue**: 847 · **贡献者**: 103
 
 ## 累计统计
 
-- **发布数**: 110 · **已合并 PR**: 964 · **开放 PR**: 43 · **已关闭 issue**: 677 · **开放 issue**: 168 · **提交数**: 1792
+- **发布数**: 111 · **已合并 PR**: 969 · **开放 PR**: 45 · **已关闭 issue**: 678 · **开放 issue**: 169 · **提交数**: 1797
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-03 | 65 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-05 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-10 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-01 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-02 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-03 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-04 | 64 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-06 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-11 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [nono-cli-0.78.0-1.aarch64.rpm](https://github.com/always-further/nono/releases/download/v0.78.0/nono-cli-0.78.0-1.aarch64.rpm) | 10.8 MiB | `runtime/rpm/aarch64` |
-| [nono-cli-0.78.0-1.x86_64.rpm](https://github.com/always-further/nono/releases/download/v0.78.0/nono-cli-0.78.0-1.x86_64.rpm) | 11.6 MiB | `runtime/rpm/x86_64` |
-| [nono-cli_0.78.0_amd64.deb](https://github.com/always-further/nono/releases/download/v0.78.0/nono-cli_0.78.0_amd64.deb) | 7.9 MiB | `runtime/deb/amd64` |
-| [nono-cli_0.78.0_arm64.deb](https://github.com/always-further/nono/releases/download/v0.78.0/nono-cli_0.78.0_arm64.deb) | 6.7 MiB | `runtime/deb/arm64` |
-| [nono-v0.78.0-aarch64-apple-darwin.tar.gz](https://github.com/always-further/nono/releases/download/v0.78.0/nono-v0.78.0-aarch64-apple-darwin.tar.gz) | 9.5 MiB | `native/darwin/arm64` |
-| [nono-v0.78.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/always-further/nono/releases/download/v0.78.0/nono-v0.78.0-aarch64-unknown-linux-gnu.tar.gz) | 10.8 MiB | `native/linux/arm64/glibc` |
-| [nono-v0.78.0-x86_64-apple-darwin.tar.gz](https://github.com/always-further/nono/releases/download/v0.78.0/nono-v0.78.0-x86_64-apple-darwin.tar.gz) | 10.7 MiB | `native/darwin/x64` |
-| [nono-v0.78.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/always-further/nono/releases/download/v0.78.0/nono-v0.78.0-x86_64-unknown-linux-gnu.tar.gz) | 11.7 MiB | `native/linux/x64/glibc` |
-| [nono-v0.78.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/always-further/nono/releases/download/v0.78.0/nono-v0.78.0-x86_64-unknown-linux-musl.tar.gz) | 11.8 MiB | `native/linux/x64/musl` |
-| [SHA256SUMS.txt](https://github.com/always-further/nono/releases/download/v0.78.0/SHA256SUMS.txt) | 923 B | `other` |
+| [nono-cli-0.79.0-1.aarch64.rpm](https://github.com/always-further/nono/releases/download/v0.79.0/nono-cli-0.79.0-1.aarch64.rpm) | 10.9 MiB | `runtime/rpm/aarch64` |
+| [nono-cli-0.79.0-1.x86_64.rpm](https://github.com/always-further/nono/releases/download/v0.79.0/nono-cli-0.79.0-1.x86_64.rpm) | 11.7 MiB | `runtime/rpm/x86_64` |
+| [nono-cli_0.79.0_amd64.deb](https://github.com/always-further/nono/releases/download/v0.79.0/nono-cli_0.79.0_amd64.deb) | 7.9 MiB | `runtime/deb/amd64` |
+| [nono-cli_0.79.0_arm64.deb](https://github.com/always-further/nono/releases/download/v0.79.0/nono-cli_0.79.0_arm64.deb) | 6.8 MiB | `runtime/deb/arm64` |
+| [nono-v0.79.0-aarch64-apple-darwin.tar.gz](https://github.com/always-further/nono/releases/download/v0.79.0/nono-v0.79.0-aarch64-apple-darwin.tar.gz) | 9.5 MiB | `native/darwin/arm64` |
+| [nono-v0.79.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/always-further/nono/releases/download/v0.79.0/nono-v0.79.0-aarch64-unknown-linux-gnu.tar.gz) | 10.9 MiB | `native/linux/arm64/glibc` |
+| [nono-v0.79.0-x86_64-apple-darwin.tar.gz](https://github.com/always-further/nono/releases/download/v0.79.0/nono-v0.79.0-x86_64-apple-darwin.tar.gz) | 10.7 MiB | `native/darwin/x64` |
+| [nono-v0.79.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/always-further/nono/releases/download/v0.79.0/nono-v0.79.0-x86_64-unknown-linux-gnu.tar.gz) | 11.8 MiB | `native/linux/x64/glibc` |
+| [nono-v0.79.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/always-further/nono/releases/download/v0.79.0/nono-v0.79.0-x86_64-unknown-linux-musl.tar.gz) | 11.9 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS.txt](https://github.com/always-further/nono/releases/download/v0.79.0/SHA256SUMS.txt) | 923 B | `other` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ nono 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T06:33:28Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T06:48:33Z._
