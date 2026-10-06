@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-agent runtime security - zero trust, zero setup, zero latency micro sandboxes
+agent runtime security - zero trust, zero setup, zero latency agent sandbox
 
 [![x-cmd/install — nono Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/nono.svg)](https://x-cmd.com/install/nono)
 
@@ -33,27 +33,27 @@ Total: **202,071** lines of code across **328** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.79.0` (2026-09-30)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-05
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 4,328 · **Forks**: 292 · **Open issues**: 859 · **Contributors**: 105
+- **Stars**: 4,352 · **Forks**: 296 · **Open issues**: 863 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 976 · **Open PRs**: 44 · **Closed issues**: 686 · **Open issues**: 173 · **Commits**: 1804
+- **Releases**: 111 · **Merged PRs**: 980 · **Open PRs**: 45 · **Closed issues**: 686 · **Open issues**: 177 · **Commits**: 1808
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 63 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-10 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-15 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-06 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 62 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-16 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for nono lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:37:52Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:25:54Z._
