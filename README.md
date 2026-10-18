@@ -38,22 +38,22 @@ Total: **203,229** lines of code across **328** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,542 · **Forks**: 304 · **Open issues**: 896 · **Contributors**: 106
+- **Stars**: 4,558 · **Forks**: 306 · **Open issues**: 899 · **Contributors**: 106
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 1011 · **Open PRs**: 58 · **Closed issues**: 696 · **Open issues**: 200 · **Commits**: 1839
+- **Releases**: 112 · **Merged PRs**: 1011 · **Open PRs**: 60 · **Closed issues**: 696 · **Open issues**: 203 · **Commits**: 1839
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-18 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-19 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-20 | 54 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-22 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-19 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-20 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-21 | 53 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-23 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-28 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for nono lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:18:02Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:18:02Z._
