@@ -14,11 +14,11 @@ x install nono
 
 ## Code insight
 
-Total: **206,398** lines of code across **332** files in the top 5 languages.
+Total: **206,811** lines of code across **332** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 190,699 | 10,052 | 19,289 | 235 |
+| Rust | 191,112 | 10,057 | 19,330 | 235 |
 | Json | 6,313 | 0 | 0 | 23 |
 | Sh | 5,997 | 1,291 | 1,537 | 48 |
 | Yaml | 1,291 | 83 | 169 | 18 |
@@ -33,27 +33,27 @@ Total: **206,398** lines of code across **332** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.80.0` (2026-10-13)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 4,643 · **Forks**: 317 · **Open issues**: 918 · **Contributors**: 110
+- **Stars**: 4,661 · **Forks**: 319 · **Open issues**: 919 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 1033 · **Open PRs**: 56 · **Closed issues**: 707 · **Open issues**: 211 · **Commits**: 1861
+- **Releases**: 112 · **Merged PRs**: 1036 · **Open PRs**: 59 · **Closed issues**: 709 · **Open issues**: 210 · **Commits**: 1864
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 48 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-24 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-26 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-27 | 48 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-29 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-03 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for nono lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:45:11Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:27:32Z._
