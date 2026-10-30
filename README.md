@@ -14,61 +14,61 @@ x install nono
 
 ## Code insight
 
-Total: **208,580** lines of code across **332** files in the top 5 languages.
+Total: **212,753** lines of code across **334** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 192,874 | 10,180 | 19,444 | 235 |
-| Json | 6,313 | 0 | 0 | 23 |
-| Sh | 6,005 | 1,292 | 1,537 | 48 |
+| Rust | 197,030 | 10,356 | 19,736 | 237 |
+| Json | 6,325 | 0 | 0 | 23 |
+| Sh | 6,009 | 1,297 | 1,537 | 48 |
 | Yaml | 1,291 | 83 | 169 | 18 |
 | Python | 1,227 | 24 | 195 | 8 |
 
 ## Source
 
-- **Upstream**: <https://github.com/always-further/nono>
+- **Upstream**: <https://github.com/nolabs-ai/nono>
 - **Homepage**: <https://nono.sh>
 - **License**: Apache-2.0
 
 ## Release
 
-- **Latest**: `v0.80.0` (2026-10-13)
-- **Last commit**: 2026-10-28
+- **Latest**: `v0.81.0` (2026-10-29)
+- **Last commit**: 2026-10-29
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 4,737 · **Forks**: 321 · **Open issues**: 932 · **Contributors**: 111
+- **Stars**: 4,757 · **Forks**: 321 · **Open issues**: 938 · **Contributors**: 111
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 1047 · **Open PRs**: 62 · **Closed issues**: 712 · **Open issues**: 220 · **Commits**: 1875
+- **Releases**: 113 · **Merged PRs**: 1055 · **Open PRs**: 61 · **Closed issues**: 716 · **Open issues**: 222 · **Commits**: 1883
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-31 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-02 | 43 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-03 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-08 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-30 | 3 | 80 | 23 | 27 | 64 | 82 |
+| last60d | 2026-08-31 | 7 | 192 | 37 | 106 | 118 | 197 |
+| 90d | 2026-08-01 | 10 | 288 | 48 | 151 | 155 | 301 |
+| last180d | 2026-05-03 | 44 | 642 | 55 | 426 | 201 | 796 |
+| 360d | 2025-11-04 | 100 | 1055 | 61 | 716 | 222 | 1525 |
+| last720d | 2024-11-09 | 100 | 1055 | 61 | 716 | 222 | 1883 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [nono-cli-0.80.0-1.aarch64.rpm](https://github.com/always-further/nono/releases/download/v0.80.0/nono-cli-0.80.0-1.aarch64.rpm) | 11.3 MiB | `runtime/rpm/aarch64` |
-| [nono-cli-0.80.0-1.x86_64.rpm](https://github.com/always-further/nono/releases/download/v0.80.0/nono-cli-0.80.0-1.x86_64.rpm) | 12.2 MiB | `runtime/rpm/x86_64` |
-| [nono-cli_0.80.0_amd64.deb](https://github.com/always-further/nono/releases/download/v0.80.0/nono-cli_0.80.0_amd64.deb) | 8.2 MiB | `runtime/deb/amd64` |
-| [nono-cli_0.80.0_arm64.deb](https://github.com/always-further/nono/releases/download/v0.80.0/nono-cli_0.80.0_arm64.deb) | 7.0 MiB | `runtime/deb/arm64` |
-| [nono-v0.80.0-aarch64-apple-darwin.tar.gz](https://github.com/always-further/nono/releases/download/v0.80.0/nono-v0.80.0-aarch64-apple-darwin.tar.gz) | 10.0 MiB | `native/darwin/arm64` |
-| [nono-v0.80.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/always-further/nono/releases/download/v0.80.0/nono-v0.80.0-aarch64-unknown-linux-gnu.tar.gz) | 11.3 MiB | `native/linux/arm64/glibc` |
-| [nono-v0.80.0-x86_64-apple-darwin.tar.gz](https://github.com/always-further/nono/releases/download/v0.80.0/nono-v0.80.0-x86_64-apple-darwin.tar.gz) | 11.2 MiB | `native/darwin/x64` |
-| [nono-v0.80.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/always-further/nono/releases/download/v0.80.0/nono-v0.80.0-x86_64-unknown-linux-gnu.tar.gz) | 12.3 MiB | `native/linux/x64/glibc` |
-| [nono-v0.80.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/always-further/nono/releases/download/v0.80.0/nono-v0.80.0-x86_64-unknown-linux-musl.tar.gz) | 12.4 MiB | `native/linux/x64/musl` |
-| [SHA256SUMS.txt](https://github.com/always-further/nono/releases/download/v0.80.0/SHA256SUMS.txt) | 923 B | `other` |
+| [nono-cli-0.81.0-1.aarch64.rpm](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-cli-0.81.0-1.aarch64.rpm) | 11.7 MiB | `runtime/rpm/aarch64` |
+| [nono-cli-0.81.0-1.x86_64.rpm](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-cli-0.81.0-1.x86_64.rpm) | 12.6 MiB | `runtime/rpm/x86_64` |
+| [nono-cli_0.81.0_amd64.deb](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-cli_0.81.0_amd64.deb) | 8.4 MiB | `runtime/deb/amd64` |
+| [nono-cli_0.81.0_arm64.deb](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-cli_0.81.0_arm64.deb) | 7.2 MiB | `runtime/deb/arm64` |
+| [nono-v0.81.0-aarch64-apple-darwin.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-v0.81.0-aarch64-apple-darwin.tar.gz) | 10.0 MiB | `native/darwin/arm64` |
+| [nono-v0.81.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-v0.81.0-aarch64-unknown-linux-gnu.tar.gz) | 11.7 MiB | `native/linux/arm64/glibc` |
+| [nono-v0.81.0-x86_64-apple-darwin.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-v0.81.0-x86_64-apple-darwin.tar.gz) | 11.3 MiB | `native/darwin/x64` |
+| [nono-v0.81.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-v0.81.0-x86_64-unknown-linux-gnu.tar.gz) | 12.7 MiB | `native/linux/x64/glibc` |
+| [nono-v0.81.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-v0.81.0-x86_64-unknown-linux-musl.tar.gz) | 12.8 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS.txt](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/SHA256SUMS.txt) | 923 B | `other` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for nono lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:47:51Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:48:54Z._
