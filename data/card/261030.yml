@@ -1,0 +1,171 @@
+about:
+  description: "agent runtime security - zero trust, zero setup, zero latency agent sandboxing"
+  license: Apache-2.0
+  homepage: https://nono.sh
+  head: 6880db1
+  archived: false
+  latestVersion: "v0.81.0"
+  latestRelease: "v0.81.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T06:48:41Z
+timeline:
+  created: 2026-01-31
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-29
+  lastRelease: 2026-10-29
+  lastPrerelease: 
+popularity:
+  star: 4757
+  watcher: 17
+  fork: 321
+  release: 113
+  contributor: 111
+  pullRequest: 1226
+  issue: 938
+language:
+  Rust: 9038152
+  Shell: 306464
+  Python: 49385
+  C: 22359
+  Makefile: 6533
+  Nix: 4706
+  Dockerfile: 3551
+totalBytes: 9431150
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 3
+    mergedPR: 80
+    openPR: 23
+    closedIssue: 27
+    openIssue: 64
+    commit: 82
+  last60d:
+    since: 2026-08-31
+    release: 7
+    mergedPR: 192
+    openPR: 37
+    closedIssue: 106
+    openIssue: 118
+    commit: 197
+  last90d:
+    since: 2026-08-01
+    release: 10
+    mergedPR: 288
+    openPR: 48
+    closedIssue: 151
+    openIssue: 155
+    commit: 301
+  last180d:
+    since: 2026-05-03
+    release: 44
+    mergedPR: 642
+    openPR: 55
+    closedIssue: 426
+    openIssue: 201
+    commit: 796
+  last360d:
+    since: 2025-11-04
+    release: 100
+    mergedPR: 1055
+    openPR: 61
+    closedIssue: 716
+    openIssue: 222
+    commit: 1525
+  last720d:
+    since: 2024-11-09
+    release: 100
+    mergedPR: 1055
+    openPR: 61
+    closedIssue: 716
+    openIssue: 222
+    commit: 1883
+total:
+  release: 113
+  mergedPR: 1055
+  openPR: 61
+  closedIssue: 716
+  openIssue: 222
+  commit: 1883
+---
+path: /home/runner/.x-repo/github.com/nolabs-ai/nono
+collectedAt: 2026-10-30T06:48:48Z
+loc:
+  Rust:
+    code: 197030
+    comments: 10356
+    blanks: 19736
+    files: 237
+  Json:
+    code: 6325
+    comments: 0
+    blanks: 0
+    files: 23
+  Sh:
+    code: 6009
+    comments: 1297
+    blanks: 1537
+    files: 48
+  Yaml:
+    code: 1291
+    comments: 83
+    blanks: 169
+    files: 18
+  Python:
+    code: 1227
+    comments: 24
+    blanks: 195
+    files: 8
+  Toml:
+    code: 356
+    comments: 60
+    blanks: 60
+    files: 9
+  CHeader:
+    code: 144
+    comments: 575
+    blanks: 62
+    files: 1
+  Makefile:
+    code: 131
+    comments: 35
+    blanks: 40
+    files: 1
+  Nix:
+    code: 93
+    comments: 17
+    blanks: 20
+    files: 1
+  Dockerfile:
+    code: 74
+    comments: 10
+    blanks: 24
+    files: 3
+  Bitbake:
+    code: 45
+    comments: 2
+    blanks: 8
+    files: 2
+  Autoconf:
+    code: 28
+    comments: 2
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 8072
+    blanks: 3955
+    files: 45
+  Text:
+    code: 0
+    comments: 2
+    blanks: 0
+    files: 2
+total:
+  code: 213918
+  comments: 34123
+  blanks: 27917
+  files: 399
+---
+
+---
