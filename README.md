@@ -32,43 +32,43 @@ Total: **238,268** lines of code across **367** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.81.0` (2026-10-29)
-- **Last commit**: 2026-11-13
+- **Latest**: `v0.82.0` (2026-11-14)
+- **Last commit**: 2026-11-14
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 4,966 · **Forks**: 332 · **Open issues**: 977 · **Contributors**: 115
+- **Stars**: 4,989 · **Forks**: 333 · **Open issues**: 980 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 1091 · **Open PRs**: 60 · **Closed issues**: 736 · **Open issues**: 241 · **Commits**: 1930
+- **Releases**: 114 · **Merged PRs**: 1092 · **Open PRs**: 60 · **Closed issues**: 736 · **Open issues**: 244 · **Commits**: 1931
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 77 | 15 | 30 | 54 | 89 |
-| last60d | 2026-09-15 | 4 | 164 | 31 | 73 | 104 | 179 |
-| 90d | 2026-08-16 | 8 | 281 | 44 | 148 | 154 | 299 |
-| last180d | 2026-05-18 | 31 | 619 | 53 | 380 | 213 | 699 |
-| 360d | 2025-11-19 | 100 | 1091 | 60 | 736 | 241 | 1567 |
-| last720d | 2024-11-24 | 100 | 1091 | 60 | 736 | 241 | 1930 |
+| 30d | 2026-10-16 | 2 | 72 | 13 | 29 | 55 | 90 |
+| last60d | 2026-09-16 | 5 | 163 | 31 | 71 | 105 | 180 |
+| 90d | 2026-08-17 | 9 | 274 | 44 | 146 | 155 | 300 |
+| last180d | 2026-05-19 | 31 | 615 | 53 | 373 | 216 | 700 |
+| 360d | 2025-11-20 | 100 | 1092 | 60 | 736 | 244 | 1568 |
+| last720d | 2024-11-25 | 100 | 1092 | 60 | 736 | 244 | 1931 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [nono-cli-0.81.0-1.aarch64.rpm](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-cli-0.81.0-1.aarch64.rpm) | 11.7 MiB | `runtime/rpm/aarch64` |
-| [nono-cli-0.81.0-1.x86_64.rpm](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-cli-0.81.0-1.x86_64.rpm) | 12.6 MiB | `runtime/rpm/x86_64` |
-| [nono-cli_0.81.0_amd64.deb](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-cli_0.81.0_amd64.deb) | 8.4 MiB | `runtime/deb/amd64` |
-| [nono-cli_0.81.0_arm64.deb](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-cli_0.81.0_arm64.deb) | 7.2 MiB | `runtime/deb/arm64` |
-| [nono-v0.81.0-aarch64-apple-darwin.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-v0.81.0-aarch64-apple-darwin.tar.gz) | 10.0 MiB | `native/darwin/arm64` |
-| [nono-v0.81.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-v0.81.0-aarch64-unknown-linux-gnu.tar.gz) | 11.7 MiB | `native/linux/arm64/glibc` |
-| [nono-v0.81.0-x86_64-apple-darwin.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-v0.81.0-x86_64-apple-darwin.tar.gz) | 11.3 MiB | `native/darwin/x64` |
-| [nono-v0.81.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-v0.81.0-x86_64-unknown-linux-gnu.tar.gz) | 12.7 MiB | `native/linux/x64/glibc` |
-| [nono-v0.81.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/nono-v0.81.0-x86_64-unknown-linux-musl.tar.gz) | 12.8 MiB | `native/linux/x64/musl` |
-| [SHA256SUMS.txt](https://github.com/nolabs-ai/nono/releases/download/v0.81.0/SHA256SUMS.txt) | 923 B | `other` |
+| [nono-cli-0.82.0-1.aarch64.rpm](https://github.com/nolabs-ai/nono/releases/download/v0.82.0/nono-cli-0.82.0-1.aarch64.rpm) | 12.5 MiB | `runtime/rpm/aarch64` |
+| [nono-cli-0.82.0-1.x86_64.rpm](https://github.com/nolabs-ai/nono/releases/download/v0.82.0/nono-cli-0.82.0-1.x86_64.rpm) | 13.6 MiB | `runtime/rpm/x86_64` |
+| [nono-cli_0.82.0_amd64.deb](https://github.com/nolabs-ai/nono/releases/download/v0.82.0/nono-cli_0.82.0_amd64.deb) | 9.1 MiB | `runtime/deb/amd64` |
+| [nono-cli_0.82.0_arm64.deb](https://github.com/nolabs-ai/nono/releases/download/v0.82.0/nono-cli_0.82.0_arm64.deb) | 7.8 MiB | `runtime/deb/arm64` |
+| [nono-v0.82.0-aarch64-apple-darwin.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.82.0/nono-v0.82.0-aarch64-apple-darwin.tar.gz) | 10.6 MiB | `native/darwin/arm64` |
+| [nono-v0.82.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.82.0/nono-v0.82.0-aarch64-unknown-linux-gnu.tar.gz) | 12.5 MiB | `native/linux/arm64/glibc` |
+| [nono-v0.82.0-x86_64-apple-darwin.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.82.0/nono-v0.82.0-x86_64-apple-darwin.tar.gz) | 12.2 MiB | `native/darwin/x64` |
+| [nono-v0.82.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.82.0/nono-v0.82.0-x86_64-unknown-linux-gnu.tar.gz) | 13.7 MiB | `native/linux/x64/glibc` |
+| [nono-v0.82.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/nolabs-ai/nono/releases/download/v0.82.0/nono-v0.82.0-x86_64-unknown-linux-musl.tar.gz) | 13.8 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS.txt](https://github.com/nolabs-ai/nono/releases/download/v0.82.0/SHA256SUMS.txt) | 923 B | `other` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for nono lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:57:44Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:48:47Z._
