@@ -14,12 +14,12 @@ x install nono
 
 ## Code insight
 
-Total: **238,268** lines of code across **367** files in the top 5 languages.
+Total: **247,986** lines of code across **382** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 222,345 | 10,851 | 21,530 | 268 |
-| Json | 6,516 | 0 | 0 | 25 |
+| Rust | 231,924 | 11,017 | 21,987 | 282 |
+| Json | 6,574 | 0 | 0 | 26 |
 | Sh | 6,009 | 1,297 | 1,537 | 48 |
 | Yaml | 1,291 | 83 | 169 | 18 |
 | Python | 1,228 | 24 | 195 | 8 |
@@ -33,27 +33,27 @@ Total: **238,268** lines of code across **367** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.82.0` (2026-11-14)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-18
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 5,006 · **Forks**: 336 · **Open issues**: 981 · **Contributors**: 115
+- **Stars**: 5,046 · **Forks**: 337 · **Open issues**: 990 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 1092 · **Open PRs**: 60 · **Closed issues**: 737 · **Open issues**: 244 · **Commits**: 1931
+- **Releases**: 114 · **Merged PRs**: 1107 · **Open PRs**: 59 · **Closed issues**: 741 · **Open issues**: 249 · **Commits**: 1946
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 70 | 13 | 28 | 55 | 65 |
-| last60d | 2026-09-17 | 4 | 157 | 31 | 70 | 103 | 155 |
-| 90d | 2026-08-18 | 9 | 269 | 41 | 144 | 155 | 270 |
-| last180d | 2026-05-20 | 31 | 608 | 53 | 371 | 216 | 634 |
-| 360d | 2025-11-21 | 100 | 1092 | 60 | 737 | 244 | 1568 |
-| last720d | 2024-11-26 | 100 | 1092 | 60 | 737 | 244 | 1931 |
+| 30d | 2026-10-20 | 2 | 72 | 12 | 26 | 56 | 80 |
+| last60d | 2026-09-20 | 4 | 171 | 28 | 70 | 104 | 170 |
+| 90d | 2026-08-21 | 8 | 266 | 36 | 141 | 154 | 285 |
+| last180d | 2026-05-23 | 30 | 617 | 52 | 370 | 219 | 649 |
+| 360d | 2025-11-24 | 100 | 1107 | 59 | 741 | 249 | 1583 |
+| last720d | 2024-11-29 | 100 | 1107 | 59 | 741 | 249 | 1946 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for nono lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:14:34Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:12:35Z._
